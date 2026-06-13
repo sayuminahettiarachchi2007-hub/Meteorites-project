@@ -11,7 +11,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load dataset
-df = pd.read_csv('/content/Meteorite_Landings (2).csv')
+df = pd.read_csv('Meteorite_Landings.csv')
 
 df.describe()
 
